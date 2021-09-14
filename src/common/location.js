@@ -12,7 +12,7 @@ let location = [{
   },
   {
     id:4,
-    location: "Kolkatta"
+    location: "Kolkata"
   },
   {
     id:5,
